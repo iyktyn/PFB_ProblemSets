@@ -1,0 +1,611 @@
+    1  ls
+    2  ls -a
+    3  nano .zshrc
+    4  source .zshrc
+    5  brew install thefuck
+    6  la
+    7  ls
+    8  l
+    9  htop
+   10  bubu
+   11  cd /
+   12  ls
+   13  cd Volumes
+   14  ls
+   15  cd Macintosh\ HD
+   16  ls
+   17  l
+   18  cd /
+   19  ls
+   20  l
+   22  ls
+   23  l
+   24  la
+   25  cd ~
+   26  l
+   27  ping share.local
+   28  setop AUTO_CD
+   29  setopt AUTO_CD
+   30  /home
+   31  ls
+   32  l
+   33  ..
+   34  ls
+   35  l
+   36  Users/
+   37  l
+   38  kjw
+   39  l
+   40  Desktop
+   41  l
+   42  ..
+   45  source .zshrc
+   46  brewinstall vim
+   48  brewinstall vim
+   49  install vim
+   50  execzsh
+   51  exec zsh
+   52  brewinstall vim
+   53  fuck
+   54  install vim
+   55  which l
+   56  music
+   57  music play
+   58  Documents
+   59  l
+   60  ..
+   61  l
+   62  RPROMPT='%*'
+   63  l
+   64  ping share.local
+   65  ping 192.168.1.177
+   66  ssh kjw@cedar
+   67  ssh kjw@access.stowers.org
+   68  ls -a
+   69  history
+   70  htop
+   71  homebrew install curl
+   72  brew install curl
+   73  brew install wget
+   74  brew install git
+   75  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   76  ssh kjw@access.stowers.or
+   77  ssh kjw@access.stowers.org
+   78  brew update
+   79  brew help
+   80  brew upgrade
+   81  vim test.txt
+   82  ls
+   83  ls -a
+   84  vim test.txt
+   85  vimtutor
+   86  exit
+   87  vimtutor
+   88  exit
+   89  emacs test.txt
+   90  emacs
+   91  python test.py
+   92  emacs test.py
+   93  ls
+   94  pwd
+   95  mkdir python_for_biologists
+   96  ls
+   97  la
+   98  la -r
+   99  nano .zshrc
+  100  brew update
+  101  brew upgrade
+  102  python version
+  103  python -v
+  104  python --version
+  105  python 3 --version
+  106  python3 --version
+  107  python3
+  108  pip list --outdated
+  109  brew install pip
+  110  pip install pandas
+  111  python3
+  112  python3 pip list --outdated
+  113  python3 install pip
+  114  brew install python3-pip
+  115  pip3 --version
+  116  pip3 list --outdated
+  117  pip3 install --upgrade pip
+  118  pip3 install --upgrade setuptools
+  119  pip3 list --outdated
+  120  cd python_for_biologists
+  121  ls
+  122  curl -O http://pythonforbiologists.com/index.php/exercise-files/
+  123  curl -O https://pythonforbiologists.com/s/python_for_biologists_exercises.zip
+  124  ls
+  125  gunzip python_for_biologists_exercises.zip
+  126  la
+  127  mkdir pythonforbiologists
+  128  mkdir advpythonforbiologists
+  129  mkdir effpythonforbiologists
+  130  ls
+  131  cd pythonforbiologists
+  132  ls
+  133  la
+  134  ls
+  135  python hello.py
+  136  python newline.py
+  137  python c1e1.py
+  138  python newline.py
+  139  python c1e1.py
+  140  python3 c1e1.py
+  141  python3 c1e2.py
+  142  pwd
+  143  ping share.local
+  144  ping 192.168.1.177
+  145  brew update
+  146  brew upgrade
+  147  brew install powerwake
+  148  /Users/kjw/Downloads/wolcmd ; exit;
+  149  ~/Downloads/wolcmd 192.168.1.205
+  150  brew update
+  151  brew upgrade
+  152  ssh pihole
+  153  ssh pihole.local
+  154  htop
+  155  brew install perl
+  156  brew update
+  157  brew upgrade
+  158  ping 192.168.1.205
+  159  wakeonlan 192.168.1.205
+  160  mkdir -p $home/bin
+  161  curl https://raw.githubusercontent.com/jpoliv/wakeonlan/master/wakeonlan -o ~/bin/wakeonlan
+  162  mkdir ~/bin/wakeonlan
+  163  mkdir -p ~/bin/wakeonlan
+  164  curl https://raw.githubusercontent.com/jpoliv/wakeonlan/master/wakeonlan -o ~/bin/wakeonlan
+  165  rm -r ~/bin/wakeonlan
+  166  ls
+  167  la
+  168  mkdir ~/bin
+  169  curl https://raw.githubusercontent.com/jpoliv/wakeonlan/master/wakeonlan -o ~/bin/wakeonlan
+  170  cd ~/bin
+  171  ls
+  172  rm wakeonlan
+  173  rm -r wakeonlan
+  174  ls
+  175  la
+  176  curl https://raw.githubusercontent.com/jpoliv/wakeonlan/master/wakeonlan -o ~/bin/wakeonlan
+  177  ls
+  178  la
+  179  chmod +x wakeonlan
+  180  la
+  181  wakeonlan 192.168.1.205
+  182  wakeonlan -i 192.168.1.205
+  183  cd ..
+  184  ls
+  185  la
+  186  ping -c 4 192.168.1.205 && arp -n
+  187  ping -c 4 192.168.1.205 && arp -n -i etho
+  188  ping -c 4 192.168.1.205 && arp -n -i eth0
+  189  ping -c 4 192.168.1.205 && arp -d
+  190  ping -c 4 192.168.1.205 && arp -s
+  191  arp
+  192  arp -a 192.168.1.205
+  193  arp -n -i 192.168.1.205
+  194  arp -a 192.168.1.205
+  195  brew update
+  196  brew upgrade
+  197  ssh pihole
+  198  ssh pihole.local
+  199  ssh kjw@pihole.local
+  200  ssh pi@pihole.local
+  201  eit
+  202  exit
+  203  ping 192.168.1.205
+  204  ping 192.168.1.209
+  205  ping 192.168.1.1
+  206  host myip.opendns.com resolver1.opendns.com
+  207  ping 192.168.1.209
+  208  brew update
+  209  brew upgrade
+  210  hto
+  211  htop
+  212  ls
+  213  ls -lthra
+  214  nano .zprofile
+  215  nano .zshrc
+  216  ls
+  217  source .zshrc
+  218  ls
+  219  zshrc
+  220  nano .zshrc
+  221  source .zshrc
+  222  ls
+  223  nano .zshrc
+  224  ls
+  225  source .zshrc
+  226  ls
+  227  nano .zshrc
+  228  ls
+  229  source .zshrc
+  230  ls
+  231  exit
+  232  /Users/kjw/Downloads/gibMacOS-master/BuildmacOSInstallApp.command ; exit;
+  233  sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
+  234  git clone https://github.com/corpnewt/MountEFI
+  235  cd MountEFI
+  236  chmod +x MountEFI.command
+  237  ./MountEFI.command
+  238  cd ~
+  239  update brew
+  240  brew update
+  241  brew upgrade
+  242  /Users/kjw/Downloads/ProperTree-master/ProperTree.command ; exit;
+  243  /Users/kjw/Downloads/MountEFI-update/MountEFI.command ; exit;
+  244  homebrew update
+  245  brew update
+  246  brew update --verbose
+  247  brew upgrade --verbose
+  248  ssh kjw@192.168.1.209
+  249  ssh pi@192.168.1.209
+  250  htop
+  251  exit
+  252  brew update --verbose
+  253  brew upgrade --verbose
+  254  ssh pi@pihole
+  255  ssh pi@192.168.1.209
+  256  brew update
+  257  brew upgrade --verbose
+  258  ssh pi@pihole
+  259  ssh pi@192.168.1.209
+  260  htop
+  261  exit
+  262  ssh kjw@192.168.1.225
+  263  exit
+  264  ssh kjw@access.stowers.org
+  265  brew update
+  266  brew upgrade --verbose
+  267  nano .zshrc
+  268  source .zshrc
+  269  dg -f
+  270  nano .zshrc
+  271  source .zshrc
+  272  df -g
+  273  df -h
+  274  htop
+  275  exit
+  276  brew update
+  277  brew upgrade --verbpse
+  278  brew upgrade --verbose
+  279  ssh pi@pihole
+  280  ssh pi@192.168.1.209
+  281  /Users/kjw/Downloads/iperf3 ; exit;
+  282  sudo mv /Users/kjw/Downloads/iperf3 /bin
+  283  sudo mv /Users/kjw/Downloads/iperf3 /sbin
+  284  pw
+  285  sudo mv /Users/kjw/Downloads/iperf3 /usr/local/bin
+  286  ls /usr/local/bin
+  287  iperf3
+  288  iperf3 -c 192.168.1.177
+  289  ssh kjw@access.stowers.org
+  290  htop
+  291  pwd
+  292  cd Temp_fastq
+  293  ls
+  294  python3 CRISpy.modified_parallel.py -s CRISpy-03-18-20.csv -o ./ -p 7
+  295  pip3 install six
+  296  htop
+  297  python3 CRISpy.modified_parallel.py -s CRISpy-03-18-20.csv -o ./ -p 7
+  298  pip3 which os
+  299  pip3 help
+  300  pip3 show os
+  301  pip3 install os
+  302  pip3 install glob
+  303  pip3 list
+  304  pip3 search os
+  305  pip3 install pandas
+  306  pip3 install csb
+  307  pip3 install csv
+  308  pip3 install dask
+  309  pip3 install collections
+  310  pip3 search Counter
+  311  pip3 install Counter
+  312  pip3 install OrderedDict
+  313  pip3 search sys
+  314  pip3 install os-sys
+  315  pip3 search glob
+  316  pip3 install glob2
+  317  pip3 search OrderedDict
+  318  pip3 install get
+  319  pip3 search print_function
+  320  pip3 search division
+  321  ssh kjw@access.stowers.org
+  322  pip3 install anaconda3
+  323  sudo bash ~/Downloads/Anaconda3-2020.02-MacOSX-x86_64.sh
+  324  cd Temp_fastq
+  325  conda
+  326  conda3
+  327  python
+  328  python3
+  329  sudo python3 CRISpy.modified_parallel.py -s CRISpy-03-18-20-tommRpl.csv -o ./ -p 7
+  330  ls
+  331  sudo python CRISpy\ Python\ Scripts/Rpl41.py
+  332  pip install pandas
+  333  pip install --upgrade pip
+  334  sudo python CRISpy\ Python\ Scripts/Rpl41.py
+  335  conda 
+  336  conda --help
+  337  sudo python3 CRISpy.modified_parallel.py -s CRISpy-03-18-20-tommRpl.csv -o ./ -p 7
+  338  pip3 install dask
+  339  conda install dask
+  340  nano ~/.zshrc
+  341  ls /usr/local/bin
+  342  where conda
+  343  where anaconda
+  344  where anaconda3
+  345  which conda
+  346  conda --version
+  347  nano ~/.bash_profile
+  348  nano ~/.zshrc
+  349  source ~/.zshrc
+  350  which conda
+  351  conda --version
+  352  pwd
+  353  cd ~
+  354  cd Temp_fastq
+  355  ls
+  356  conda CRISpy.modified_parallel.py -s CRISpy-03-18-20-tommRpl.csv -o ./ -p 4
+  357  python --version
+  358  sudo python CRISpy.modified_parallel.py -s CRISpy-03-18-20-tommRpl.csv -o ./ -p 4
+  359  conda install dask
+  360  sudo conda install dask
+  361  sudo python CRISpy.modified_parallel.py -s CRISpy-03-18-20-tommRpl.csv -o ./ -p 4
+  362  sudo python CRISpy.modified_parallel.py -s CRISpy-03-18-20-tommRpl.csv -o ./
+  363  conda --version
+  364  conda update conda
+  365  ls /Users/kjw/anaconda3/pkgs
+  366  ls -lhra /Users/kjw/anaconda3/
+  367  sudo chmod 666 /Users/kjw/anaconda3 -r
+  368  sudo chmod 666 /Users/kjw/anaconda3
+  369  ls -lhra /Users/kjw/anaconda3
+  370  cd /Users/kjw
+  371  ls
+  372  ls -lthra
+  373  sudo chmod 775 anaconda3
+  374  ls
+  375  ls -lthra
+  376  cd anaconda3
+  377  ls -lthra
+  378  cd ~
+  379  conda update conda
+  380  sudo chown 501:20 /Users/kjw/anaconda3
+  381  conda update conda
+  382  sudo chown 501:20 /Users/kjw/anaconda3 -r
+  383  sudo chown 501:20 -r /Users/kjw/anaconda3
+  384  sudo chown -r 501:20 /Users/kjw/anaconda3
+  385  man chown
+  386  sudo chown -R 501:20 /Users/kjw/anaconda3
+  387  conda update conda
+  388  cd Temp_fastq
+  389  python CRISpy.modified_parallel.py -s CRISpy-03-18-20-tommRpl.csv -o ./
+  390  conda create --CRISpy pandas
+  391  conda -h
+  392  man conda
+  393  conda info
+  394  conda help
+  395  conda create help
+  396  conda info --envs
+  397  conda create CRISpy pandas
+  398  conda create -CRISpy pandas
+  399  conda create -h
+  400  conda --name CRISpy pandas
+  401  conda -n CRISpy pandas
+  402  conda --name crispy pandas
+  403  conda create --name CRISpy pandas
+  404  conda activate CRISpy
+  405  conda info
+  406  conda info -env
+  407  conda info -envs
+  408  conda info --envs
+  409  conda create --namePy27 python=2.7
+  410  conda create --name Py27 python=2.7
+  411  python --version
+  412  python CRISpy.modified_parallel.py -s CRISpy-03-18-20-tommRpl.csv -o ./ 
+  413  conda install dask
+  414  python CRISpy.modified_parallel.py -s CRISpy-03-18-20-tommRpl.csv -o ./
+  415* ssh kjw@access.stowers.org
+  416  conda search dask
+  417  conda install dask=0.14.3
+  418  conda install dask=0.16.1
+  419  conda install python=3.6.1
+  420  conda search python
+  421  conda install python=3.6.2
+  422  conda install dask=0.16.1
+  423  python CRISpy.modified_parallel.py -s CRISpy-03-18-20-tommRpl.csv -o ./ -p 4
+  424* htop
+  425  python CRISpy.modified_parallel.py -s CRISpy-03-18-20-tommRpl.csv -o ./ -p 4
+  426  cd ~
+  427  brew update
+  428  brew upgrade --verbose
+  429  conda activate
+  430  history
+  431  cd ~
+  432  man tcsh
+  433  man wc
+  434  ls
+  435  cd Temp_fastq
+  436  ls
+  437  wc -lmw 2606-01-Tomm20-BFP-3P_P1C-A03_CTGTTAGACA-CACAGT.fastq
+  438  apropos csv
+  439  apropos columns
+  440  ls -lthra
+  441  cd ~
+  442  man mail
+  443  man ln
+  444  wc
+  445  ls -l | less
+  446  cd ../
+  447  ls
+  448  cd Volumes
+  449  ls
+  450  cd ~
+  451  df -h
+  452  cd /dev
+  453  ls
+  454  ls -lthra | less
+  455  cd /Volumes
+  456  ls
+  457  cd ~
+  458  man less
+  459  wget --help
+  460  git --help
+  461  git clone 'https://github.com/prog4biol/pfb2019.git'
+  462  ls
+  463  cd pfb2019
+  464  ls
+  465  cd files
+  466  ls
+  467  cd ../../
+  468  ls
+  469  cd /bin
+  470  ls
+  471  ls -l
+  472  ls -lt
+  473  man ls
+  474  ls -lt | head
+  475  man sleep
+  476  cd ~
+  477  date ; sleep 2 ; date
+  478  curl -O https://raw.githubusercontent.com/prog4biol/pfb2019/master/files/cuffdiff.txt
+  479  ls
+  480  head cuffdiff.txt
+  481  nano cuffdiff.txt
+  482  wc -l cuffdiff.txt
+  483  cat blablabla.txt
+  484  cat blablabla.txt 2> errors.txt
+  485  head errors.txt
+  486  mkdir problemsets
+  487  cd problemsets
+  488  wget https://raw.githubusercontent.com/prog4biol/pfb2019/master/files/sequences.nt.fa 
+  489  ls
+  490  wc -lc
+  491  wc -l
+  492  wc -lc sequences.nt.fa
+  493  head sequences.nt.fa
+  494  tail sequences.nt.fa
+  495  nano sequences.nt.fa
+  496  grep '>' | wc -l
+  497  grep '>' sequences.nt.fa | wc -l
+  498  less sequences.nt.fa
+  499  mv sequences.nt.fa cancer_genes.fasta
+  500  ls
+  501  cd ../
+  502  ls
+  503  mv cuffdiff.txt problemsets
+  504  cd problemsets
+  505  ls
+  506  head cuffdiff.txt
+  507  man sort
+  508  nano cuffdiff.txt
+  509  sort -k 10 cuffdiff.txt > sorted.cuffdiff.out
+  510  head sorted.cuffdiff.out
+  511  man sort
+  512  sort -k 10 -r cuffdiff.txt > sorted.cuffdiff.out
+  513  head sorted.cuffdiff.out
+  514  sort -k 10 -r | head 100 | top100.sorted.cuffdiff.out
+  515  sort -k 10 -r | head 100 > top100.sorted.cuffdiff.out
+  516  sort -k 10 -r cuffdiff.txt | head 100 > top100.sorted.cuffdiff.out
+  517  head 100 cuffdiff.txt
+  518  man head
+  519  sort -k 10 -r cuffdiff.txt | head -n 100 > top100.sorted.cuffdiff.out
+  520  wc -l top100.sorted.cuffdiff.out
+  521  wc -l cuffdiff.txt
+  522  head top100.sorted.cuffdiff.out
+  523  man cut
+  524  sort -k 10 -r cuffdiff.txt | head -n 100 | cut -f 3 | sort | uniq > differentially.expresed.genes.txt
+  525  head differentially.expresed.genes.txt
+  526  less differentially.expresed.genes.txt
+  527  less cuffdiff.txt
+  528  ls
+  529  mkdir unix1
+  530  mv *.out unix1
+  531  mv *c unix1
+  532  ls
+  533  mv *.txt unix1/
+  534  mv cancer_genes.fasta unix1
+  535  ls
+  536  mkdir unix2
+  537  cd unix2
+  538  ls
+  539  ls -a
+  540  vi first_vi_file.txt
+  541  cd ../
+  542  echo "# PFB_ProblemSets" >> README.md
+  543  git init
+  544  git add README.md
+  545  git commit -m "first commit"
+  546  git remote add origin https://github.com/iyktyn/PFB_ProblemSets.git
+  547  git push -u origin master
+  548  ls
+  549  git add unix1
+  550  git add unix2
+  551  git commit -m "second commit"
+  552  git push -u origin master
+  553  vi git_exercises.txt
+  554  git add git_exercises.txt
+  555  git commit -m 'added a line of text'
+  556  git push origin master
+  557  git status
+  558  git pull
+  559  cd ..
+  560  ls
+  561  cd problemsets
+  562  ls -al ~/.ssh
+  563  cd ~
+  564  ssh-keygen -t rsa -b 4069 -C "iykytn@gmail.com"
+  565  eval "$(ssh-agent -s)"
+  566  nano ~.ssh/config
+  567  nano ~/.ssh/config
+  568  ssh-add -K ~/.ssh/id_rsa
+  569  pbcopy < ~/.ssh/id_rsa.pub
+  570  cd problemsets
+  571  git remote -v
+  572  git remote set-url origin git@github.com:iyktyn/PFB_ProblemSets.git 
+  573  git remote -v
+  574  git push origin master
+  575  pwd
+  576  mkdir files
+  577  cd ..
+  578  ls
+  579  cd problemsets
+  580  cd unix
+  581  cd unix1
+  582  ls
+  583  cd ..
+  584  mv unix1/cancer_genes.fasta files
+  585  git status
+  586  git add files/cancer_genes.fasta
+  587  git status
+  588  git commit -m 'adding cancer_genes.fasta'
+  589  git push
+  590  git status
+  591  git rm unix1/cancer_genes.fasta
+  592  git push
+  593  git status
+  594  git commit -m 'updating deleted files'
+  595  git push
+  596  git status
+  597  cd files
+  598  vi mysequences.txt
+  599  git add mysequences.txt
+  600  git commit -m 'adding mysequences.txt'
+  601  git push
+  602  mkdir fastas
+  603  ls ../unix1
+  604  ls
+  605  cp cancer_genes.fasta fastas
+  606  rm fastas/cancer_genes.fasta
+  607  git status
+  608  git cp cancer_genes.fasta fastas
+  609  cp cancer_genes.fasta fastas
+  610  git add fastas/cancer_genes.fasta
+  611  git rm cancer_genes.fasta
+  612  git status
+  613  git commit
+  614  git commit -m 'moved cancer_genes.fasta'
+  615  git push
