@@ -16,4 +16,4 @@ GC_count = g_count + c_count
 AT_content = AT_count / dna_len
 GC_content = GC_count / dna_len
 
-print('Your AT content is {:%} and your GC content is {:%}'.format(AT_content, GC_content))
+print('Your AT content is {:.3%} and your GC content is {:.3%}'.format(AT_content, GC_content))
