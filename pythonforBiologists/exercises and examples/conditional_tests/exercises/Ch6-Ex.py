@@ -31,6 +31,11 @@ def AT_content_and_expression(csv,exp):
 		if AT_content(line[1]) < 0.5 and int(line[3]) > exp:
 			print(line[2])
 
+def Complex_cond(csv):
+	for line in csv:
+		if (line[2][0] == 'k' or line[2][0] == 'h') and line[0] != 'Drosophila melanogaster':
+			print(line[2])
+
 print("Starting")
 Sev_species(data, ['Drosophila melanogaster', 'Drosophila simulans'])
 print("Finished with first Ex")
@@ -38,3 +43,5 @@ Len_range(data, 90,110)
 print("Finished with second Ex")
 AT_content_and_expression(data,200)
 print("Finished with third Ex")
+Complex_cond(data)
+print("Finished with fourth Ex")
