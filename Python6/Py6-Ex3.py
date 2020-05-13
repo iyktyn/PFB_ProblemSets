@@ -14,4 +14,4 @@ with open("Python_06.seq.txt",'r') as seq:
 		line = line.rstrip()
 		gene,dna = line.split()
 		dnarc = rc(dna)
-		print(">" + gene + " Reverse complement\n" + dnarc + "\n")
+		print(">" + gene + " Reverse complement\n" + dnarc)
